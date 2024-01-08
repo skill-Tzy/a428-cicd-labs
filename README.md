@@ -1,6 +1,6 @@
 # Basic-networking
 
-Submission Proyek Membangun Web Server - Kelas Belajar Implementasi CI/CD
+Submission Proyek Membangun CI/CD Pipeline dengan Jenkins - Kelas Belajar Implementasi CI/CD
 
 [Sertifikat Kompetensi Kelas Belajar Jaringan Komputer untuk Pemula](https://www.dicoding.com/certificates/0LZ0265N3X65)
 
