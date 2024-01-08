@@ -1,4 +1,4 @@
-# intermediate-DevOps Engineer
+# Intermediate-DevOps Engineer
 
 Submission Proyek Membangun CI/CD Pipeline dengan Jenkins - Kelas Belajar Implementasi CI/CD
 
